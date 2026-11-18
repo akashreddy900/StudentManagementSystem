@@ -66,7 +66,7 @@ Spring Boot serves the frontend from `src/main/resources/static` and exposes the
 {
   "name": "Akash",
   "email": "akash@example.com",
-  "course": "b tech CSE",
+  "course": "B-Tech CSE",
   "phone": "9876543210"
 }
 ```
