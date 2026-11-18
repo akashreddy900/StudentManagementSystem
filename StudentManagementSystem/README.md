@@ -45,7 +45,7 @@ A Java Full Stack CRUD application for managing student records. Built with Java
    mvn spring-boot:run
    ```
 
-5. Open http://localhost:8080 in your browser.
+5. Open http://localhost:8081 in your browser.
 
 Spring Boot serves the frontend from `src/main/resources/static` and exposes the API under `/api/students`.
 
@@ -66,7 +66,7 @@ Spring Boot serves the frontend from `src/main/resources/static` and exposes the
 {
   "name": "Akash",
   "email": "akash@example.com",
-  "course": "M.Tech CSE",
+  "course": "b tech CSE",
   "phone": "9876543210"
 }
 ```
